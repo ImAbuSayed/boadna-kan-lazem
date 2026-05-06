@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/boadna-kan-lazem/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Boadna Kan Lazem](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
